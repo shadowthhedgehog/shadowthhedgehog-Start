@@ -80,5 +80,7 @@ public class GuideTest {
 /**
  *  Now, run the tests. It should pass, and your IDE should inform you about the results
  *  of the tests. Your task will be modifying the code in the remainder of the course repo so that their test cases
- *  pass rather than fail.
+ *  pass rather than fail. 
  */
+
+ // finished
